@@ -1,7 +1,9 @@
-{
-  "name": "devrock-store",
+{  "name": "devrock-store",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
